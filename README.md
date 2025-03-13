@@ -1,1 +1,1 @@
-Building a garage model and controlling it. There is a laser to avoid closing garage while someone is passing. It opens with a remote controller sending a code. We control a fan with an interrupt button to open a window.
+I build a garage model and controlled it. There is a laser to avoid closing garage while someone is passing. It opens with a remote controller sending a code. We control a fan with an interrupt button to open a window.
